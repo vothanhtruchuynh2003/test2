@@ -2,7 +2,7 @@
 ## Student Information
 My name is Vo Thanh Truc Huynh. I am practicing GitHub and Markdown skills.
 ## Course
-This repository is Test 2.
+This repository is for Test 2.
 ## Topics Learned
 - GitHub Repositories
 - Markdown Formatting
